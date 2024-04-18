@@ -3,7 +3,7 @@ from __future__ import print_function
 import argparse
 
 
-parser = argparse.ArgumentParser(description='PyTorch code for UADAL/cUADAL')
+parser = argparse.ArgumentParser(description='PyTorch code for ACRE')
 
 # Data Level
 parser.add_argument('--dataset', type=str)
